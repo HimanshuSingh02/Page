@@ -1,4 +1,4 @@
-# HACK THE MOUNTAINS 3.0 - Hype The Hike
+# Hacktober Project - Cross Platofrm
 
 <!-- PROJECT LOGO -->
 <br />
